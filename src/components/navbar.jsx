@@ -15,10 +15,10 @@ export default function Navbar(){
           <Link  className="nav-link   active" aria-current="page" href="/">Home</Link  >
         </li>
         <li className="nav-item">
-          <Link  className="nav-link  " href="/chat">Chat  </Link  >
+          <Link  className="nav-link  " href="/ventas">Ventas  </Link  >
         </li>
         <li className="nav-item">
-          <Link  className="nav-link  " href="/universidades">Universidades  </Link  >
+          <Link  className="nav-link  " href="/productos">Productos  </Link  >
         </li>
         <li className="nav-item">
           <Link  className="nav-link  " href="/usuarios">Usuarios  </Link  >
